@@ -1,5 +1,15 @@
 [
   {
+    "id": "1786195715179",
+    "name": "PREMIUM COLLEGE BAG ",
+    "category": "Backpacks",
+    "mrp": 359,
+    "offerPrice": 259,
+    "description": "HIGH QUALITY MATERIAL,\nGOOD CHAINS,\nFULL WATER PROOF ",
+    "image": "https://raw.githubusercontent.com/Shaikhyusufdev/ragnibags-website/main/public/products-images/1786195713885-1000169354.png",
+    "createdAt": "2026-08-08T13:28:35.179Z"
+  },
+  {
     "id": "1786195456986",
     "name": "BARBIE PRINCESS KIDS BAG FOR GIRLS ",
     "category": "Kids Bags",
