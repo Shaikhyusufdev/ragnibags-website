@@ -1,5 +1,15 @@
 [
   {
+    "id": "1786193415685",
+    "name": "LEATHER BAG",
+    "category": "Backpacks",
+    "mrp": 649,
+    "offerPrice": 499,
+    "description": "PURE FORM,\nFULL WATER PROOF,\n6 MONTHS WARRANTY,",
+    "image": "https://raw.githubusercontent.com/Shaikhyusufdev/ragnibags-website/main/public/products-images/1786193414385-1000169346.png",
+    "createdAt": "2026-08-08T12:50:15.685Z"
+  },
+  {
     "id": "1786192840269",
     "name": "LEATHER KIDS BAG ",
     "category": "School Bags",
