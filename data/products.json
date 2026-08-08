@@ -1,5 +1,15 @@
 [
   {
+    "id": "1786192600981",
+    "name": "LEATHER KID BAG",
+    "category": "School Bags",
+    "mrp": 599,
+    "offerPrice": 449,
+    "description": "PURE FORM \nFULL WATER PROOF \n6 MONTHS WARRANTY ",
+    "image": "https://raw.githubusercontent.com/Shaikhyusufdev/ragnibags-website/main/public/products-images/1786192599612-1000169342.png",
+    "createdAt": "2026-08-08T12:36:40.981Z"
+  },
+  {
     "id": "1786035909732",
     "name": "LADIES SIDER",
     "category": "Handbags",
